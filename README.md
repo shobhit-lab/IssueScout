@@ -122,4 +122,4 @@ Issues and pull requests are welcome. Happy Hacktoberfest! 🎃
 
 ## License
 
-Add a `LICENSE` file with a license of your choice (MIT is a popular pick).
+This project is licensed under the [MIT License](LICENSE).
