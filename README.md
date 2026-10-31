@@ -25,8 +25,8 @@ You need **Python 3.9+** and internet. The AI runs on Google's servers, so your 
 **1. Get the code**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/shobhit-lab/IssueScout.git
+cd IssueScout
 ```
 
 **2. Install**
